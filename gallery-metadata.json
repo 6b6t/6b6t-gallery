@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "version": "1.2.0",
+    "generatedAt": "2025-09-14T02:57:08.093Z",
+    "totalImages": 13,
+    "description": "6b6t Server Gallery - Screenshots and moments from the server (GitHub hosted)",
+    "schema": {
+      "version": "1.2.0",
+      "lastModified": "2025-09-14T02:57:08.094Z"
+    },
+    "statistics": {
+      "totalGeneral": 8,
+      "totalDated": 5,
+      "featuredCount": 3,
+      "latestDate": "2024-11-12",
+      "oldestDate": "2024-01-01"
+    }
+  },
+  "images": [
+    {
+      "id": "img_001",
+      "filename": "1.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/1.png",
+      "title": "6b6t Screenshot #1",
+      "description": "A memorable moment from the 6b6t server showcasing the anarchy gameplay",
+      "dateAdded": "2024-01-01",
+      "fileExtension": "png",
+      "category": "general",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "gameplay"
+      ],
+      "featured": false,
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": "16:9"
+      },
+      "fileSize": "2.1MB",
+      "quality": "high"
+    },
+    {
+      "id": "img_002",
+      "filename": "2.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2.png",
+      "title": "6b6t Screenshot #2",
+      "description": "Another epic moment captured on 6b6t",
+      "dateAdded": "2024-01-02",
+      "fileExtension": "png",
+      "category": "general",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot"
+      ],
+      "featured": false
+    },
+    {
+      "id": "img_003",
+      "filename": "2024-09-09_14.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2024-09-09_14.png",
+      "title": "6b6t September 9th 2024",
+      "description": "Epic moment captured on September 9th, 2024 at 14:00 - showcasing massive builds and player interactions",
+      "dateAdded": "2024-09-09",
+      "dateTaken": "2024-09-09T14:00:00Z",
+      "fileExtension": "png",
+      "category": "dated",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "2024",
+        "september",
+        "builds",
+        "multiplayer"
+      ],
+      "featured": true,
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": "16:9"
+      },
+      "fileSize": "3.2MB",
+      "quality": "high"
+    },
+    {
+      "id": "img_004",
+      "filename": "2024-09-22_10_2.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2024-09-22_10_2.png",
+      "title": "6b6t September 22nd 2024",
+      "description": "Screenshot taken on September 22nd, 2024 at 10:00 (version 2)",
+      "dateAdded": "2024-09-22",
+      "dateTaken": "2024-09-22T10:00:00Z",
+      "fileExtension": "png",
+      "category": "dated",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "2024",
+        "september"
+      ],
+      "featured": false
+    },
+    {
+      "id": "img_005",
+      "filename": "2024-09-29_10.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2024-09-29_10.png",
+      "title": "6b6t September 29th 2024",
+      "description": "Screenshot taken on September 29th, 2024 at 10:00",
+      "dateAdded": "2024-09-29",
+      "dateTaken": "2024-09-29T10:00:00Z",
+      "fileExtension": "png",
+      "category": "dated",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "2024",
+        "september"
+      ],
+      "featured": false
+    },
+    {
+      "id": "img_006",
+      "filename": "2024-09-30_19.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2024-09-30_19.png",
+      "title": "6b6t September 30th 2024",
+      "description": "Screenshot taken on September 30th, 2024 at 19:00",
+      "dateAdded": "2024-09-30",
+      "dateTaken": "2024-09-30T19:00:00Z",
+      "fileExtension": "png",
+      "category": "dated",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "2024",
+        "september"
+      ],
+      "featured": false
+    },
+    {
+      "id": "img_007",
+      "filename": "2024-11-12_16.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2024-11-12_16.png",
+      "title": "6b6t November 12th 2024",
+      "description": "Screenshot taken on November 12th, 2024 at 16:00",
+      "dateAdded": "2024-11-12",
+      "dateTaken": "2024-11-12T16:00:00Z",
+      "fileExtension": "png",
+      "category": "dated",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "2024",
+        "november"
+      ],
+      "featured": true
+    },
+    {
+      "id": "img_008",
+      "filename": "3.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/3.png",
+      "title": "6b6t Screenshot #3",
+      "description": "Another great moment from the 6b6t server",
+      "dateAdded": "2024-01-03",
+      "fileExtension": "png",
+      "category": "general",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot"
+      ],
+      "featured": false
+    },
+    {
+      "id": "img_009",
+      "filename": "4.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/4.png",
+      "title": "6b6t Screenshot #4",
+      "description": "Epic gameplay moment on 6b6t",
+      "dateAdded": "2024-01-04",
+      "fileExtension": "png",
+      "category": "general",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot"
+      ],
+      "featured": false
+    },
+    {
+      "id": "img_010",
+      "filename": "5.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/5.png",
+      "title": "6b6t Screenshot #5",
+      "description": "Another memorable screenshot from 6b6t",
+      "dateAdded": "2024-01-05",
+      "fileExtension": "png",
+      "category": "general",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot"
+      ],
+      "featured": false
+    },
+    {
+      "id": "img_011",
+      "filename": "6.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/6.png",
+      "title": "6b6t Screenshot #6",
+      "description": "Captured moment from the anarchy server",
+      "dateAdded": "2024-01-06",
+      "fileExtension": "png",
+      "category": "general",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot"
+      ],
+      "featured": true
+    },
+    {
+      "id": "img_012",
+      "filename": "7.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/7.png",
+      "title": "6b6t Screenshot #7",
+      "description": "Amazing build or moment on 6b6t",
+      "dateAdded": "2024-01-07",
+      "fileExtension": "png",
+      "category": "general",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot"
+      ],
+      "featured": false
+    },
+    {
+      "id": "img_013",
+      "filename": "8.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/8.png",
+      "title": "6b6t Screenshot #8",
+      "description": "Final screenshot in the gallery collection",
+      "dateAdded": "2024-01-08",
+      "fileExtension": "png",
+      "category": "general",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot"
+      ],
+      "featured": false
+    }
+  ],
+  "categories": [
+    {
+      "name": "general",
+      "displayName": "General Screenshots",
+      "description": "General screenshots and moments from 6b6t"
+    },
+    {
+      "name": "dated",
+      "displayName": "Dated Screenshots",
+      "description": "Screenshots with specific dates and timestamps"
+    }
+  ],
+  "tags": [
+    "6b6t",
+    "minecraft",
+    "anarchy",
+    "screenshot",
+    "2024",
+    "september",
+    "november"
+  ],
+  "sorting": {
+    "defaultOrder": "dateAdded",
+    "availableOrders": [
+      "dateAdded",
+      "dateTaken",
+      "title",
+      "featured"
+    ]
+  },
+  "filtering": {
+    "availableCategories": [
+      "general",
+      "dated"
+    ],
+    "availableTags": [
+      "6b6t",
+      "minecraft",
+      "anarchy",
+      "screenshot",
+      "2024",
+      "september",
+      "november"
+    ],
+    "defaultCategory": "all"
+  },
+  "display": {
+    "itemsPerPage": 12,
+    "gridColumns": {
+      "mobile": 1,
+      "tablet": 2,
+      "desktop": 3
+    },
+    "lightboxEnabled": true
+  },
+  "apiInfo": {
+    "endpoint": "/api/gallery",
+    "version": "v1",
+    "lastUpdated": "2025-09-14T02:57:08.094Z",
+    "cache": {
+      "ttl": 3600,
+      "revalidate": 60
+    }
+  }
+}
