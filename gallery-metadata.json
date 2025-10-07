@@ -1,12 +1,12 @@
 {
   "metadata": {
     "version": "1.2.0",
-    "generatedAt": "2025-09-14T02:57:08.093Z",
+    "generatedAt": "2025-10-07T02:57:08.093Z",
     "totalImages": 13,
     "description": "6b6t Server Gallery - Screenshots and moments from the server (GitHub hosted)",
     "schema": {
       "version": "1.2.0",
-      "lastModified": "2025-09-14T02:57:08.094Z"
+      "lastModified": "2025-10-07T02:57:08.094Z"
     },
     "statistics": {
       "totalGeneral": 8,
@@ -22,7 +22,7 @@
       "filename": "1.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/1.png",
       "title": "6b6t Screenshot #1",
-      "description": "A memorable moment from the 6b6t server showcasing the anarchy gameplay",
+      "description": "A player at a small shulker stash on 6b6t",
       "author": "ScarX",
       "dateAdded": "2024-01-01",
       "fileExtension": "png",
@@ -40,7 +40,7 @@
         "height": 1080,
         "aspectRatio": "16:9"
       },
-      "fileSize": "2.1MB",
+      "fileSize": "0.6MB",
       "quality": "high"
     },
     {
@@ -48,7 +48,7 @@
       "filename": "2.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2.png",
       "title": "6b6t Screenshot #2",
-      "description": "Another epic moment captured on 6b6t",
+      "description": "Exciting event hosted by 6b6t's owner, qbasty",
       "dateAdded": "2024-01-02",
       "fileExtension": "png",
       "category": "general",
@@ -58,14 +58,21 @@
         "anarchy",
         "screenshot"
       ],
-      "featured": false
+      "featured": false,
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": "16:9"
+      },
+      "fileSize": "0.8MB",
+      "quality": "high"
     },
     {
       "id": "img_003",
       "filename": "2024-09-09_14.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2024-09-09_14.png",
       "title": "6b6t September 9th 2024",
-      "description": "Epic moment captured on September 9th, 2024 at 14:00 - showcasing massive builds and player interactions",
+      "description": "Impressive lavacast pyramid at 6b6t spawn",
       "dateAdded": "2024-09-09",
       "dateTaken": "2024-09-09T14:00:00Z",
       "fileExtension": "png",
@@ -86,7 +93,7 @@
         "height": 1080,
         "aspectRatio": "16:9"
       },
-      "fileSize": "3.2MB",
+      "fileSize": "0.8MB",
       "quality": "high"
     },
     {
@@ -94,7 +101,7 @@
       "filename": "2024-09-22_10_2.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2024-09-22_10_2.png",
       "title": "6b6t September 22nd 2024",
-      "description": "Screenshot taken on September 22nd, 2024 at 10:00 (version 2)",
+      "description": "Base built for the 6b6t Christmas build competition",
       "dateAdded": "2024-09-22",
       "dateTaken": "2024-09-22T10:00:00Z",
       "fileExtension": "png",
@@ -105,16 +112,24 @@
         "anarchy",
         "screenshot",
         "2024",
-        "september"
+        "september",
+        "christmas"
       ],
-      "featured": false
+      "featured": false,
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": "16:9"
+      },
+      "fileSize": "0.8MB",
+      "quality": "high"
     },
     {
       "id": "img_005",
       "filename": "2024-09-29_10.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2024-09-29_10.png",
       "title": "6b6t September 29th 2024",
-      "description": "Screenshot taken on September 29th, 2024 at 10:00",
+      "description": "Massive cathedral base on 6b6t",
       "dateAdded": "2024-09-29",
       "dateTaken": "2024-09-29T10:00:00Z",
       "fileExtension": "png",
@@ -127,14 +142,21 @@
         "2024",
         "september"
       ],
-      "featured": false
+      "featured": false,
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": "16:9"
+      },
+      "fileSize": "0.8MB",
+      "quality": "high"
     },
     {
       "id": "img_006",
       "filename": "2024-09-30_19.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2024-09-30_19.png",
       "title": "6b6t September 30th 2024",
-      "description": "Screenshot taken on September 30th, 2024 at 19:00",
+      "description": "One of the spawn highways on 6b6t",
       "dateAdded": "2024-09-30",
       "dateTaken": "2024-09-30T19:00:00Z",
       "fileExtension": "png",
@@ -147,14 +169,21 @@
         "2024",
         "september"
       ],
-      "featured": false
+      "featured": false,
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": "16:9"
+      },
+      "fileSize": "0.6MB",
+      "quality": "high"
     },
     {
       "id": "img_007",
       "filename": "2024-11-12_16.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2024-11-12_16.png",
       "title": "6b6t November 12th 2024",
-      "description": "Screenshot taken on November 12th, 2024 at 16:00",
+      "description": "A player with APEX rank riding a horse on 6b6t",
       "dateAdded": "2024-11-12",
       "dateTaken": "2024-11-12T16:00:00Z",
       "fileExtension": "png",
@@ -167,14 +196,21 @@
         "2024",
         "november"
       ],
-      "featured": true
+      "featured": true,
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": "16:9"
+      },
+      "fileSize": "0.7MB",
+      "quality": "high"
     },
     {
       "id": "img_008",
       "filename": "3.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/3.png",
       "title": "6b6t Screenshot #3",
-      "description": "Another great moment from the 6b6t server",
+      "description": "Player-hosted event at spawn on 6b6t",
       "dateAdded": "2024-01-03",
       "fileExtension": "png",
       "category": "general",
@@ -184,14 +220,21 @@
         "anarchy",
         "screenshot"
       ],
-      "featured": false
+      "featured": false,
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": "16:9"
+      },
+      "fileSize": "0.6MB",
+      "quality": "high"
     },
     {
       "id": "img_009",
       "filename": "4.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/4.png",
       "title": "6b6t Screenshot #4",
-      "description": "Epic gameplay moment on 6b6t",
+      "description": "New player escaping 6b6t's spawn",
       "dateAdded": "2024-01-04",
       "fileExtension": "png",
       "category": "general",
@@ -201,14 +244,21 @@
         "anarchy",
         "screenshot"
       ],
-      "featured": false
+      "featured": false,
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": "16:9"
+      },
+      "fileSize": "0.7MB",
+      "quality": "high"
     },
     {
       "id": "img_010",
       "filename": "5.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/5.png",
       "title": "6b6t Screenshot #5",
-      "description": "Another memorable screenshot from 6b6t",
+      "description": "Sunrays shining through 6b6t's spawn",
       "dateAdded": "2024-01-05",
       "fileExtension": "png",
       "category": "general",
@@ -218,14 +268,21 @@
         "anarchy",
         "screenshot"
       ],
-      "featured": false
+      "featured": false,
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": "16:9"
+      },
+      "fileSize": "0.3MB",
+      "quality": "high"
     },
     {
       "id": "img_011",
       "filename": "6.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/6.png",
       "title": "6b6t Screenshot #6",
-      "description": "Captured moment from the anarchy server",
+      "description": "High-quality render of the 6b6t spawn",
       "dateAdded": "2024-01-06",
       "fileExtension": "png",
       "category": "general",
@@ -235,14 +292,21 @@
         "anarchy",
         "screenshot"
       ],
-      "featured": true
+      "featured": true,
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": "16:9"
+      },
+      "fileSize": "0.9MB",
+      "quality": "high"
     },
     {
       "id": "img_012",
       "filename": "7.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/7.png",
       "title": "6b6t Screenshot #7",
-      "description": "Amazing build or moment on 6b6t",
+      "description": "Geared player at spawn on 6b6t",
       "dateAdded": "2024-01-07",
       "fileExtension": "png",
       "category": "general",
@@ -252,14 +316,21 @@
         "anarchy",
         "screenshot"
       ],
-      "featured": false
+      "featured": false,
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": "16:9"
+      },
+      "fileSize": "0.8MB",
+      "quality": "high"
     },
     {
       "id": "img_013",
       "filename": "8.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/8.png",
       "title": "6b6t Screenshot #8",
-      "description": "Final screenshot in the gallery collection",
+      "description": "New player bridging in the sky at spawn on 6b6t",
       "dateAdded": "2024-01-08",
       "fileExtension": "png",
       "category": "general",
@@ -269,7 +340,14 @@
         "anarchy",
         "screenshot"
       ],
-      "featured": false
+      "featured": false,
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": "16:9"
+      },
+      "fileSize": "1.0MB",
+      "quality": "high"
     }
   ],
   "categories": [
@@ -330,7 +408,7 @@
   "apiInfo": {
     "endpoint": "/api/gallery",
     "version": "v1",
-    "lastUpdated": "2025-09-14T02:57:08.094Z",
+    "lastUpdated": "2025-10-07T02:57:08.094Z",
     "cache": {
       "ttl": 3600,
       "revalidate": 60
