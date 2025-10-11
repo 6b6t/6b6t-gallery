@@ -21,7 +21,7 @@
       "id": "img_001",
       "filename": "1.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/1.png",
-      "title": "6b6t Screenshot #1",
+      "title": "Player shulker stash",
       "description": "A player at a small shulker stash on 6b6t",
       "author": "ScarX",
       "dateAdded": "2024-01-01",
@@ -32,7 +32,8 @@
         "minecraft",
         "anarchy",
         "screenshot",
-        "gameplay"
+        "gameplay",
+        "shulker"
       ],
       "featured": false,
       "dimensions": {
@@ -47,8 +48,8 @@
       "id": "img_002",
       "filename": "2.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2.png",
-      "title": "6b6t Screenshot #2",
-      "description": "Exciting event hosted by 6b6t's owner, qbasty",
+      "title": "6b6t event",
+      "description": "qbasty, the owner of 6b6t hosting an event",
       "dateAdded": "2024-01-02",
       "fileExtension": "png",
       "category": "general",
@@ -71,8 +72,8 @@
       "id": "img_003",
       "filename": "2024-09-09_14.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2024-09-09_14.png",
-      "title": "6b6t September 9th 2024",
-      "description": "Impressive lavacast pyramid at 6b6t spawn",
+      "title": "Lavacast at spawn",
+      "description": "Huge player-made pyramid lavacast at 6b6t spawn",
       "dateAdded": "2024-09-09",
       "dateTaken": "2024-09-09T14:00:00Z",
       "fileExtension": "png",
@@ -85,7 +86,8 @@
         "2024",
         "september",
         "builds",
-        "multiplayer"
+        "multiplayer",
+        "spawn"
       ],
       "featured": true,
       "dimensions": {
@@ -100,8 +102,8 @@
       "id": "img_004",
       "filename": "2024-09-22_10_2.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2024-09-22_10_2.png",
-      "title": "6b6t September 22nd 2024",
-      "description": "Base built for the 6b6t Christmas build competition",
+      "title": "Christmas base",
+      "description": "A base built for the 6b6t Christmas build competition",
       "dateAdded": "2024-09-22",
       "dateTaken": "2024-09-22T10:00:00Z",
       "fileExtension": "png",
@@ -113,7 +115,8 @@
         "screenshot",
         "2024",
         "september",
-        "christmas"
+        "christmas",
+        "base"
       ],
       "featured": false,
       "dimensions": {
@@ -128,8 +131,8 @@
       "id": "img_005",
       "filename": "2024-09-29_10.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2024-09-29_10.png",
-      "title": "6b6t September 29th 2024",
-      "description": "Massive cathedral base on 6b6t",
+      "title": "Cathedral base",
+      "description": "A massive cathedral build on 6b6t",
       "dateAdded": "2024-09-29",
       "dateTaken": "2024-09-29T10:00:00Z",
       "fileExtension": "png",
@@ -140,7 +143,8 @@
         "anarchy",
         "screenshot",
         "2024",
-        "september"
+        "september",
+        "base"
       ],
       "featured": false,
       "dimensions": {
@@ -155,8 +159,8 @@
       "id": "img_006",
       "filename": "2024-09-30_19.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2024-09-30_19.png",
-      "title": "6b6t September 30th 2024",
-      "description": "One of the spawn highways on 6b6t",
+      "title": "Highway at spawn",
+      "description": "A player with the username Melika308 is traveling along one of the many 6b6t spawn highways",
       "dateAdded": "2024-09-30",
       "dateTaken": "2024-09-30T19:00:00Z",
       "fileExtension": "png",
@@ -167,7 +171,8 @@
         "anarchy",
         "screenshot",
         "2024",
-        "september"
+        "september",
+        "spawn"
       ],
       "featured": false,
       "dimensions": {
@@ -182,8 +187,8 @@
       "id": "img_007",
       "filename": "2024-11-12_16.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2024-11-12_16.png",
-      "title": "6b6t November 12th 2024",
-      "description": "A player with APEX rank riding a horse on 6b6t",
+      "title": "Player on a horse",
+      "description": "A player with APEX rank with the username Volizray riding a horse in front of a build on 6b6t",
       "dateAdded": "2024-11-12",
       "dateTaken": "2024-11-12T16:00:00Z",
       "fileExtension": "png",
@@ -194,7 +199,8 @@
         "anarchy",
         "screenshot",
         "2024",
-        "november"
+        "november",
+        "rank"
       ],
       "featured": true,
       "dimensions": {
@@ -209,8 +215,8 @@
       "id": "img_008",
       "filename": "3.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/3.png",
-      "title": "6b6t Screenshot #3",
-      "description": "Player-hosted event at spawn on 6b6t",
+      "title": "Player event at spawn",
+      "description": "A player-hosted event taking place at spawn on 6b6t",
       "dateAdded": "2024-01-03",
       "fileExtension": "png",
       "category": "general",
@@ -218,7 +224,8 @@
         "6b6t",
         "minecraft",
         "anarchy",
-        "screenshot"
+        "screenshot",
+        "spawn"
       ],
       "featured": false,
       "dimensions": {
@@ -233,8 +240,8 @@
       "id": "img_009",
       "filename": "4.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/4.png",
-      "title": "6b6t Screenshot #4",
-      "description": "New player escaping 6b6t's spawn",
+      "title": "Player escaping spawn",
+      "description": "New player with the username TheRealJuice7 escaping 6b6t spawn",
       "dateAdded": "2024-01-04",
       "fileExtension": "png",
       "category": "general",
@@ -242,7 +249,8 @@
         "6b6t",
         "minecraft",
         "anarchy",
-        "screenshot"
+        "screenshot",
+        "spawn"
       ],
       "featured": false,
       "dimensions": {
@@ -257,7 +265,7 @@
       "id": "img_010",
       "filename": "5.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/5.png",
-      "title": "6b6t Screenshot #5",
+      "title": "Sunrays at spawn",
       "description": "Sunrays shining through 6b6t's spawn",
       "dateAdded": "2024-01-05",
       "fileExtension": "png",
@@ -266,7 +274,8 @@
         "6b6t",
         "minecraft",
         "anarchy",
-        "screenshot"
+        "screenshot",
+        "spawn"
       ],
       "featured": false,
       "dimensions": {
@@ -281,8 +290,8 @@
       "id": "img_011",
       "filename": "6.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/6.png",
-      "title": "6b6t Screenshot #6",
-      "description": "High-quality render of the 6b6t spawn",
+      "title": "Spawn logos",
+      "description": "A high-quality render of spawn, showing all of the obsidian logos and griefed terrain",
       "dateAdded": "2024-01-06",
       "fileExtension": "png",
       "category": "general",
@@ -290,7 +299,9 @@
         "6b6t",
         "minecraft",
         "anarchy",
-        "screenshot"
+        "screenshot",
+        "spawn",
+        "render"
       ],
       "featured": true,
       "dimensions": {
@@ -305,8 +316,8 @@
       "id": "img_012",
       "filename": "7.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/7.png",
-      "title": "6b6t Screenshot #7",
-      "description": "Geared player at spawn on 6b6t",
+      "title": "Flooded anarchy spawn",
+      "description": "A player with the username unclemuss is swimming in a boat across one of the many lakes of 6b6t spawn",
       "dateAdded": "2024-01-07",
       "fileExtension": "png",
       "category": "general",
@@ -314,7 +325,8 @@
         "6b6t",
         "minecraft",
         "anarchy",
-        "screenshot"
+        "screenshot",
+        "spawn"
       ],
       "featured": false,
       "dimensions": {
@@ -329,8 +341,8 @@
       "id": "img_013",
       "filename": "8.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/8.png",
-      "title": "6b6t Screenshot #8",
-      "description": "New player bridging in the sky at spawn on 6b6t",
+      "title": "Sky bridging at spawn",
+      "description": "New player with the username ProfessorSandMan bridging in the sky at spawn on 6b6t",
       "dateAdded": "2024-01-08",
       "fileExtension": "png",
       "category": "general",
@@ -338,7 +350,8 @@
         "6b6t",
         "minecraft",
         "anarchy",
-        "screenshot"
+        "screenshot",
+        "spawn"
       ],
       "featured": false,
       "dimensions": {
