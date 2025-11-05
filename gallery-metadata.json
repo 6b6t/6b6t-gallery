@@ -361,6 +361,34 @@
       },
       "fileSize": "1.0MB",
       "quality": "high"
+    },
+    {
+      "id": "img_014",
+      "filename": "legend_gallery_1.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/legend_gallery_1.png",
+      "title": "Server Owner Qbasty Smoking a Cigar ",
+      "description": "During an event on 6b6t, server owner Qbasty is seen smoking a cigar while watching the chaos unfold at spawn.",
+      "dateAdded": "2025-09-28",
+      "fileExtension": "png",
+      "category": "general",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "spawn",
+        "event",
+        "legend"
+      ],
+      "legend": true,
+      "featured": false,
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": "16:9"
+      },
+      "fileSize": "1.0MB",
+      "quality": "high"
     }
   ],
   "categories": [
