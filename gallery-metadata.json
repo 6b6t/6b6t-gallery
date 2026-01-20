@@ -415,6 +415,33 @@
       "fileSize": "1.0MB",
       "quality": "high"
     },
+        {
+      "id": "img_019",
+      "filename": "10.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/10.png",
+      "title": "Murphs Base Ruins",
+      "description": "Ruins of Murphs base in 6b6t",
+      "author": "Volizray",
+      "dateAdded": "2026-01-21",
+      "fileExtension": "png",
+      "category": "general",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "gameplay",
+        "shulker"
+      ],
+      "featured": false,
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": "16:9"
+      },
+      "fileSize": "0.6MB",
+      "quality": "high"
+    },
   ],
   "categories": [
     {
