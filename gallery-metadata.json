@@ -2,17 +2,17 @@
   "metadata": {
     "version": "1.2.0",
     "generatedAt": "2025-10-07T02:57:08.093Z",
-    "totalImages": 13,
+    "totalImages": 19,
     "description": "6b6t Server Gallery - Screenshots and moments from the server (GitHub hosted)",
     "schema": {
       "version": "1.2.0",
       "lastModified": "2025-10-07T02:57:08.094Z"
     },
     "statistics": {
-      "totalGeneral": 8,
+      "totalGeneral": 14,
       "totalDated": 5,
       "featuredCount": 3,
-      "latestDate": "2024-11-12",
+      "latestDate": "2026-01-31",
       "oldestDate": "2024-01-01"
     }
   },
@@ -27,20 +27,9 @@
       "dateAdded": "2024-01-01",
       "fileExtension": "png",
       "category": "general",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot",
-        "gameplay",
-        "shulker"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot", "gameplay", "shulker"],
       "featured": false,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "0.6MB",
       "quality": "high"
     },
@@ -53,18 +42,9 @@
       "dateAdded": "2024-01-02",
       "fileExtension": "png",
       "category": "general",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot"],
       "featured": false,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "0.8MB",
       "quality": "high"
     },
@@ -78,23 +58,9 @@
       "dateTaken": "2024-09-09T14:00:00Z",
       "fileExtension": "png",
       "category": "dated",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot",
-        "2024",
-        "september",
-        "builds",
-        "multiplayer",
-        "spawn"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot", "2024", "september", "builds", "multiplayer", "spawn"],
       "featured": true,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "0.8MB",
       "quality": "high"
     },
@@ -108,22 +74,9 @@
       "dateTaken": "2024-09-22T10:00:00Z",
       "fileExtension": "png",
       "category": "dated",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot",
-        "2024",
-        "september",
-        "christmas",
-        "base"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot", "2024", "september", "christmas", "base"],
       "featured": false,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "0.8MB",
       "quality": "high"
     },
@@ -137,21 +90,9 @@
       "dateTaken": "2024-09-29T10:00:00Z",
       "fileExtension": "png",
       "category": "dated",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot",
-        "2024",
-        "september",
-        "base"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot", "2024", "september", "base"],
       "featured": false,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "0.8MB",
       "quality": "high"
     },
@@ -165,21 +106,9 @@
       "dateTaken": "2024-09-30T19:00:00Z",
       "fileExtension": "png",
       "category": "dated",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot",
-        "2024",
-        "september",
-        "spawn"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot", "2024", "september", "spawn"],
       "featured": false,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "0.6MB",
       "quality": "high"
     },
@@ -193,21 +122,9 @@
       "dateTaken": "2024-11-12T16:00:00Z",
       "fileExtension": "png",
       "category": "dated",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot",
-        "2024",
-        "november",
-        "rank"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot", "2024", "november", "rank"],
       "featured": true,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "0.7MB",
       "quality": "high"
     },
@@ -220,19 +137,9 @@
       "dateAdded": "2024-01-03",
       "fileExtension": "png",
       "category": "general",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot",
-        "spawn"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot", "spawn"],
       "featured": false,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "0.6MB",
       "quality": "high"
     },
@@ -245,19 +152,9 @@
       "dateAdded": "2024-01-04",
       "fileExtension": "png",
       "category": "general",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot",
-        "spawn"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot", "spawn"],
       "featured": false,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "0.7MB",
       "quality": "high"
     },
@@ -270,19 +167,9 @@
       "dateAdded": "2024-01-05",
       "fileExtension": "png",
       "category": "general",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot",
-        "spawn"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot", "spawn"],
       "featured": false,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "0.3MB",
       "quality": "high"
     },
@@ -295,20 +182,9 @@
       "dateAdded": "2024-01-06",
       "fileExtension": "png",
       "category": "general",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot",
-        "spawn",
-        "render"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot", "spawn", "render"],
       "featured": true,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "0.9MB",
       "quality": "high"
     },
@@ -321,19 +197,9 @@
       "dateAdded": "2024-01-07",
       "fileExtension": "png",
       "category": "general",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot",
-        "spawn"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot", "spawn"],
       "featured": false,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "0.8MB",
       "quality": "high"
     },
@@ -346,19 +212,9 @@
       "dateAdded": "2024-01-08",
       "fileExtension": "png",
       "category": "general",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot",
-        "spawn"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot", "spawn"],
       "featured": false,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "1.0MB",
       "quality": "high"
     },
@@ -366,31 +222,19 @@
       "id": "img_014",
       "filename": "legend_gallery_1.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/legend_gallery_1.png",
-      "title": "Server Owner Qbasty Smoking a Cigar ",
+      "title": "Server Owner Qbasty Smoking a Cigar",
       "description": "During an event on 6b6t, server owner Qbasty is seen smoking a cigar while watching the chaos unfold at spawn.",
       "dateAdded": "2025-09-28",
       "fileExtension": "png",
       "category": "general",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot",
-        "spawn",
-        "event",
-        "legend"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot", "spawn", "event", "legend"],
       "legend": true,
       "featured": false,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "1.0MB",
       "quality": "high"
     },
-        {
+    {
       "id": "img_015",
       "filename": "9.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/9.png",
@@ -399,23 +243,13 @@
       "dateAdded": "2026-01-21",
       "fileExtension": "png",
       "category": "general",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot",
-        "spawn"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot", "spawn"],
       "featured": false,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "1.0MB",
       "quality": "high"
     },
-        {
+    {
       "id": "img_019",
       "filename": "10.png",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/10.png",
@@ -425,24 +259,13 @@
       "dateAdded": "2026-01-21",
       "fileExtension": "png",
       "category": "general",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot",
-        "gameplay",
-        "shulker"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot", "gameplay", "shulker"],
       "featured": false,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "0.6MB",
       "quality": "high"
-    }
-        {
+    },
+    {
       "id": "img_020",
       "filename": "11.webp",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/11.webp",
@@ -451,29 +274,13 @@
       "dateAdded": "2026-01-31",
       "fileExtension": "webp",
       "category": "general",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot"],
       "featured": false,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "0.8MB",
       "quality": "high"
     },
-  ],
-  "categories": [
     {
-      "name": "general",
-      "displayName": "General Screenshots",
-      "description": "General screenshots and moments from 6b6t"
-    },
-            {
       "id": "img_021",
       "filename": "12.webp",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/12.webp",
@@ -482,22 +289,13 @@
       "dateAdded": "2026-01-31",
       "fileExtension": "webp",
       "category": "general",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot"],
       "featured": false,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "0.8MB",
       "quality": "high"
     },
-             {
+    {
       "id": "img_022",
       "filename": "13.webp",
       "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/13.webp",
@@ -506,21 +304,12 @@
       "dateAdded": "2026-01-31",
       "fileExtension": "webp",
       "category": "general",
-      "tags": [
-        "6b6t",
-        "minecraft",
-        "anarchy",
-        "screenshot"
-      ],
+      "tags": ["6b6t", "minecraft", "anarchy", "screenshot"],
       "featured": false,
-      "dimensions": {
-        "width": 1920,
-        "height": 1080,
-        "aspectRatio": "16:9"
-      },
+      "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "0.8MB",
       "quality": "high"
-    },
+    }
   ],
   "categories": [
     {
@@ -534,56 +323,25 @@
       "description": "Screenshots with specific dates and timestamps"
     }
   ],
-  "tags": [
-    "6b6t",
-    "minecraft",
-    "anarchy",
-    "screenshot",
-    "2024",
-    "september",
-    "november"
-  ],
+  "tags": ["6b6t", "minecraft", "anarchy", "screenshot", "2024", "september", "november"],
   "sorting": {
     "defaultOrder": "dateAdded",
-    "availableOrders": [
-      "dateAdded",
-      "dateTaken",
-      "title",
-      "featured"
-    ]
+    "availableOrders": ["dateAdded", "dateTaken", "title", "featured"]
   },
   "filtering": {
-    "availableCategories": [
-      "general",
-      "dated"
-    ],
-    "availableTags": [
-      "6b6t",
-      "minecraft",
-      "anarchy",
-      "screenshot",
-      "2024",
-      "september",
-      "november"
-    ],
+    "availableCategories": ["general", "dated"],
+    "availableTags": ["6b6t", "minecraft", "anarchy", "screenshot", "2024", "september", "november"],
     "defaultCategory": "all"
   },
   "display": {
     "itemsPerPage": 12,
-    "gridColumns": {
-      "mobile": 1,
-      "tablet": 2,
-      "desktop": 3
-    },
+    "gridColumns": { "mobile": 1, "tablet": 2, "desktop": 3 },
     "lightboxEnabled": true
   },
   "apiInfo": {
     "endpoint": "/api/gallery",
     "version": "v1",
     "lastUpdated": "2025-10-07T02:57:08.094Z",
-    "cache": {
-      "ttl": 3600,
-      "revalidate": 60
-    }
+    "cache": { "ttl": 3600, "revalidate": 60 }
   }
 }
