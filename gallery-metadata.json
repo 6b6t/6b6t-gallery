@@ -442,6 +442,85 @@
       "fileSize": "0.6MB",
       "quality": "high"
     }
+        {
+      "id": "img_020",
+      "filename": "11.webp",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/11.webp",
+      "title": "Kitty Base",
+      "description": "Kitty1234's base in The End",
+      "dateAdded": "2026-01-31",
+      "fileExtension": "webp",
+      "category": "general",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot"
+      ],
+      "featured": false,
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": "16:9"
+      },
+      "fileSize": "0.8MB",
+      "quality": "high"
+    },
+  ],
+  "categories": [
+    {
+      "name": "general",
+      "displayName": "General Screenshots",
+      "description": "General screenshots and moments from 6b6t"
+    },
+            {
+      "id": "img_021",
+      "filename": "12.webp",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/12.webp",
+      "title": "Monolith Base",
+      "description": "Peace within Anarchy",
+      "dateAdded": "2026-01-31",
+      "fileExtension": "webp",
+      "category": "general",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot"
+      ],
+      "featured": false,
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": "16:9"
+      },
+      "fileSize": "0.8MB",
+      "quality": "high"
+    },
+             {
+      "id": "img_022",
+      "filename": "13.webp",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/13.webp",
+      "title": "Club Void Megabase",
+      "description": "Club Void Megabase - built by SLOPJOPSAMMICH, ProMinecrafter_, KirbFX, Woofy and VapingProfessor. Found by Simpsuii",
+      "dateAdded": "2026-01-31",
+      "fileExtension": "webp",
+      "category": "general",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot"
+      ],
+      "featured": false,
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspectRatio": "16:9"
+      },
+      "fileSize": "0.8MB",
+      "quality": "high"
+    },
   ],
   "categories": [
     {
