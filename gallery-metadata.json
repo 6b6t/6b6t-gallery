@@ -1,18 +1,18 @@
 {
   "metadata": {
     "version": "1.2.0",
-    "generatedAt": "2025-10-07T02:57:08.093Z",
-    "totalImages": 19,
+    "generatedAt": "2026-10-08T18:42:45.423Z",
+    "totalImages": 32,
     "description": "6b6t Server Gallery - Screenshots and moments from the server (GitHub hosted)",
     "schema": {
       "version": "1.2.0",
       "lastModified": "2025-10-07T02:57:08.094Z"
     },
     "statistics": {
-      "totalGeneral": 14,
-      "totalDated": 5,
+      "totalGeneral": 15,
+      "totalDated": 17,
       "featuredCount": 3,
-      "latestDate": "2026-01-31",
+      "latestDate": "2026-10-09",
       "oldestDate": "2024-01-01"
     }
   },
@@ -309,6 +309,400 @@
       "dimensions": { "width": 1920, "height": 1080, "aspectRatio": "16:9" },
       "fileSize": "0.8MB",
       "quality": "high"
+    },
+    {
+      "id": "img_023",
+      "filename": "2026-08-19_20.22.22.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2026-08-19_20.22.22.png",
+      "title": "Players gathering amid purple fireworks",
+      "description": "A crowd of players gathers on a platform surrounded by purple light and firework particles.",
+      "dateAdded": "2026-10-09",
+      "dateTaken": "2026-08-19T20:22:22",
+      "fileExtension": "png",
+      "category": "dated",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "2026",
+        "august",
+        "event",
+        "multiplayer",
+        "fireworks"
+      ],
+      "featured": false,
+      "dimensions": {
+        "width": 3840,
+        "height": 2161,
+        "aspectRatio": "3840:2161"
+      },
+      "fileSize": "12.9MB",
+      "quality": "high"
+    },
+    {
+      "id": "img_024",
+      "filename": "2026-08-22_22.00.07.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2026-08-22_22.00.07.png",
+      "title": "Crowded cavern gathering",
+      "description": "Players fill a rocky cavern illuminated by fire and glowing particles.",
+      "dateAdded": "2026-10-09",
+      "dateTaken": "2026-08-22T22:00:07",
+      "fileExtension": "png",
+      "category": "dated",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "2026",
+        "august",
+        "event",
+        "multiplayer",
+        "cavern"
+      ],
+      "featured": false,
+      "dimensions": {
+        "width": 3840,
+        "height": 2161,
+        "aspectRatio": "3840:2161"
+      },
+      "fileSize": "18.8MB",
+      "quality": "high"
+    },
+    {
+      "id": "img_025",
+      "filename": "2026-08-24_20.08.54.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2026-08-24_20.08.54.png",
+      "title": "Twin purple guardian statues",
+      "description": "Two towering purple statues holding staffs stand at the end of a brightly lit bridge.",
+      "dateAdded": "2026-10-09",
+      "dateTaken": "2026-08-24T20:08:54",
+      "fileExtension": "png",
+      "category": "dated",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "2026",
+        "august",
+        "builds",
+        "statues",
+        "bridge"
+      ],
+      "featured": false,
+      "dimensions": {
+        "width": 3840,
+        "height": 2161,
+        "aspectRatio": "3840:2161"
+      },
+      "fileSize": "15.2MB",
+      "quality": "high"
+    },
+    {
+      "id": "img_026",
+      "filename": "2026-09-02_23.38.23.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2026-09-02_23.38.23.png",
+      "title": "Rain over the spawn ruins",
+      "description": "Rain and sunlight fall across ruined terrain, towering walls, and lava flows at spawn.",
+      "dateAdded": "2026-10-09",
+      "dateTaken": "2026-09-02T23:38:23",
+      "fileExtension": "png",
+      "category": "dated",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "2026",
+        "september",
+        "spawn",
+        "ruins",
+        "lava",
+        "rain"
+      ],
+      "featured": false,
+      "dimensions": {
+        "width": 3840,
+        "height": 2161,
+        "aspectRatio": "3840:2161"
+      },
+      "fileSize": "17.5MB",
+      "quality": "high"
+    },
+    {
+      "id": "img_027",
+      "filename": "2026-09-11_09.33.25.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2026-09-11_09.33.25.png",
+      "title": "Sunlit spawn panorama",
+      "description": "A wide view of scarred spawn terrain, suspended structures, and tall pillars beneath a bright sky.",
+      "dateAdded": "2026-10-09",
+      "dateTaken": "2026-09-11T09:33:25",
+      "fileExtension": "png",
+      "category": "dated",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "2026",
+        "september",
+        "spawn",
+        "ruins",
+        "panorama"
+      ],
+      "featured": false,
+      "dimensions": {
+        "width": 3840,
+        "height": 2161,
+        "aspectRatio": "3840:2161"
+      },
+      "fileSize": "15.7MB",
+      "quality": "high"
+    },
+    {
+      "id": "img_028",
+      "filename": "2026-09-12_23.08.52.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2026-09-12_23.08.52.png",
+      "title": "Cosmoworld green city",
+      "description": "Green illuminated buildings sit beneath a large Cosmoworld sign and an eye-shaped emblem.",
+      "dateAdded": "2026-10-09",
+      "dateTaken": "2026-09-12T23:08:52",
+      "fileExtension": "png",
+      "category": "dated",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "2026",
+        "september",
+        "builds",
+        "base",
+        "cosmoworld"
+      ],
+      "featured": false,
+      "dimensions": {
+        "width": 3840,
+        "height": 2161,
+        "aspectRatio": "3840:2161"
+      },
+      "fileSize": "18.2MB",
+      "quality": "high"
+    },
+    {
+      "id": "img_029",
+      "filename": "2026-09-13_17.37.47.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2026-09-13_17.37.47.png",
+      "title": "Imperials and Cosmoworld monument",
+      "description": "Large Imperials lettering and a Cosmoworld eye emblem overlook a sculpture surrounded by sweeping flames.",
+      "dateAdded": "2026-10-09",
+      "dateTaken": "2026-09-13T17:37:47",
+      "fileExtension": "png",
+      "category": "dated",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "2026",
+        "september",
+        "builds",
+        "monument",
+        "cosmoworld",
+        "imperials"
+      ],
+      "featured": false,
+      "dimensions": {
+        "width": 3840,
+        "height": 2161,
+        "aspectRatio": "3840:2161"
+      },
+      "fileSize": "17.5MB",
+      "quality": "high"
+    },
+    {
+      "id": "img_030",
+      "filename": "2026-09-15_20.35.38.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2026-09-15_20.35.38.png",
+      "title": "Golden light across spawn",
+      "description": "Golden sunlight spreads across ruined spawn terrain and a network of elevated paths.",
+      "dateAdded": "2026-10-09",
+      "dateTaken": "2026-09-15T20:35:38",
+      "fileExtension": "png",
+      "category": "dated",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "2026",
+        "september",
+        "spawn",
+        "ruins",
+        "panorama"
+      ],
+      "featured": false,
+      "dimensions": {
+        "width": 3840,
+        "height": 2161,
+        "aspectRatio": "3840:2161"
+      },
+      "fileSize": "14.7MB",
+      "quality": "high"
+    },
+    {
+      "id": "img_031",
+      "filename": "2026-09-18_23.41.26.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2026-09-18_23.41.26.png",
+      "title": "Spawn skyline at sunset",
+      "description": "A sunset view of the spawn skyline with floating platforms, tall pillars, and large lettering.",
+      "dateAdded": "2026-10-09",
+      "dateTaken": "2026-09-18T23:41:26",
+      "fileExtension": "png",
+      "category": "dated",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "2026",
+        "september",
+        "spawn",
+        "ruins",
+        "sunset",
+        "panorama"
+      ],
+      "featured": false,
+      "dimensions": {
+        "width": 3840,
+        "height": 2161,
+        "aspectRatio": "3840:2161"
+      },
+      "fileSize": "16.7MB",
+      "quality": "high"
+    },
+    {
+      "id": "img_032",
+      "filename": "2026-09-19_03.17.09.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2026-09-19_03.17.09.png",
+      "title": "Purple portals in a ruined cavern",
+      "description": "Purple Nether portals glow among broken blocks and lava-lit walls in a large cavern.",
+      "dateAdded": "2026-10-09",
+      "dateTaken": "2026-09-19T03:17:09",
+      "fileExtension": "png",
+      "category": "dated",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "2026",
+        "september",
+        "ruins",
+        "cavern",
+        "nether-portal",
+        "lava"
+      ],
+      "featured": false,
+      "dimensions": {
+        "width": 3840,
+        "height": 2161,
+        "aspectRatio": "3840:2161"
+      },
+      "fileSize": "15.2MB",
+      "quality": "high"
+    },
+    {
+      "id": "img_033",
+      "filename": "2026-09-19_03.18.40.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2026-09-19_03.18.40.png",
+      "title": "Lava-lit cavern ruins",
+      "description": "Lava streams and purple portals illuminate a cavern filled with scattered blocks and tall columns.",
+      "dateAdded": "2026-10-09",
+      "dateTaken": "2026-09-19T03:18:40",
+      "fileExtension": "png",
+      "category": "dated",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "2026",
+        "september",
+        "ruins",
+        "cavern",
+        "nether-portal",
+        "lava"
+      ],
+      "featured": false,
+      "dimensions": {
+        "width": 3840,
+        "height": 2161,
+        "aspectRatio": "3840:2161"
+      },
+      "fileSize": "16.2MB",
+      "quality": "high"
+    },
+    {
+      "id": "img_034",
+      "filename": "2026-09-23_20.00.18.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/2026-09-23_20.00.18.png",
+      "title": "Players atop a 6b6t sign",
+      "description": "A crowd of players gathers atop a large sign with orange and blue lettering amid towering structures.",
+      "dateAdded": "2026-10-09",
+      "dateTaken": "2026-09-23T20:00:18",
+      "fileExtension": "png",
+      "category": "dated",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "2026",
+        "september",
+        "event",
+        "multiplayer",
+        "builds"
+      ],
+      "featured": false,
+      "dimensions": {
+        "width": 3840,
+        "height": 2161,
+        "aspectRatio": "3840:2161"
+      },
+      "fileSize": "13.7MB",
+      "quality": "high"
+    },
+    {
+      "id": "img_035",
+      "filename": "C3196164-DC07-49BD-9A16-AF882F06FEDA.png",
+      "path": "https://raw.githubusercontent.com/6b6t/6b6t-gallery/main/assets/gallery/C3196164-DC07-49BD-9A16-AF882F06FEDA.png",
+      "title": "Coastal palace at sunset",
+      "description": "An ornate palace with domed roofs, formal gardens, and a columned entrance overlooks the coast at sunset.",
+      "dateAdded": "2026-10-09",
+      "fileExtension": "png",
+      "category": "general",
+      "tags": [
+        "6b6t",
+        "minecraft",
+        "anarchy",
+        "screenshot",
+        "builds",
+        "base",
+        "palace",
+        "gardens",
+        "sunset"
+      ],
+      "featured": false,
+      "dimensions": {
+        "width": 1661,
+        "height": 947,
+        "aspectRatio": "1661:947"
+      },
+      "fileSize": "2.3MB",
+      "quality": "high"
     }
   ],
   "categories": [
@@ -323,14 +717,89 @@
       "description": "Screenshots with specific dates and timestamps"
     }
   ],
-  "tags": ["6b6t", "minecraft", "anarchy", "screenshot", "2024", "september", "november"],
+  "tags": [
+    "6b6t",
+    "minecraft",
+    "anarchy",
+    "screenshot",
+    "gameplay",
+    "shulker",
+    "2024",
+    "september",
+    "builds",
+    "multiplayer",
+    "spawn",
+    "christmas",
+    "base",
+    "november",
+    "rank",
+    "render",
+    "event",
+    "legend",
+    "2026",
+    "august",
+    "fireworks",
+    "cavern",
+    "statues",
+    "bridge",
+    "ruins",
+    "lava",
+    "rain",
+    "panorama",
+    "cosmoworld",
+    "monument",
+    "imperials",
+    "sunset",
+    "nether-portal",
+    "palace",
+    "gardens"
+  ],
   "sorting": {
     "defaultOrder": "dateAdded",
     "availableOrders": ["dateAdded", "dateTaken", "title", "featured"]
   },
   "filtering": {
-    "availableCategories": ["general", "dated"],
-    "availableTags": ["6b6t", "minecraft", "anarchy", "screenshot", "2024", "september", "november"],
+    "availableCategories": [
+      "general",
+      "dated"
+    ],
+    "availableTags": [
+      "6b6t",
+      "minecraft",
+      "anarchy",
+      "screenshot",
+      "gameplay",
+      "shulker",
+      "2024",
+      "september",
+      "builds",
+      "multiplayer",
+      "spawn",
+      "christmas",
+      "base",
+      "november",
+      "rank",
+      "render",
+      "event",
+      "legend",
+      "2026",
+      "august",
+      "fireworks",
+      "cavern",
+      "statues",
+      "bridge",
+      "ruins",
+      "lava",
+      "rain",
+      "panorama",
+      "cosmoworld",
+      "monument",
+      "imperials",
+      "sunset",
+      "nether-portal",
+      "palace",
+      "gardens"
+    ],
     "defaultCategory": "all"
   },
   "display": {
@@ -341,7 +810,10 @@
   "apiInfo": {
     "endpoint": "/api/gallery",
     "version": "v1",
-    "lastUpdated": "2025-10-07T02:57:08.094Z",
-    "cache": { "ttl": 3600, "revalidate": 60 }
+    "lastUpdated": "2026-10-08T18:42:45.423Z",
+    "cache": {
+      "ttl": 3600,
+      "revalidate": 60
+    }
   }
 }
