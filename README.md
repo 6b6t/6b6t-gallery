@@ -1,5 +1,9 @@
 # 6b6t Gallery Assets
 
+Gallery content is now hosted and managed in [6b6t CMS](https://cms.6b6t.org/admin). Use the CMS for new entries and updates.
+
+This repository remains a read-only snapshot. Existing image URLs remain available. The documentation below describes the former workflow.
+
 This repository contains the image assets and metadata for the 6b6t server gallery.
 
 ## Structure
