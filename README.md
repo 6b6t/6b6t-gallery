@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has moved to **[git.6b6t.org/6b6t/6b6t-gallery](https://git.6b6t.org/6b6t/6b6t-gallery)**. This GitHub copy is archived and no longer updated.
+
 # 6b6t Gallery Assets
 
 Gallery content is now hosted and managed in [6b6t CMS](https://cms.6b6t.org/admin). Use the CMS for new entries and updates.
